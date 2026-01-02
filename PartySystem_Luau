@@ -1,5 +1,7 @@
 PartySystem.lua
 
+--// NOTICE: Hey fellow dev, if you´re looking for my game here is the correct link: https://www.roblox.com/games/82219685274190/Wraithwood For HiddenDevs :)
+
 --// Types //--
 
 export type PartyData = {
