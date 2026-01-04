@@ -164,7 +164,7 @@ function Party:LeaveParty(player: Player)
 
 		self.ActiveParties[party.PartyID] = nil
 	else
-		self:RemovePlayerFromParty(party, player) --// TODO: Replication error here!
+		self:RemovePlayerFromParty(party, player)
 	end
 end
 
